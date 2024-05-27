@@ -1,0 +1,47 @@
+{
+  "profile": [
+    {
+      "email": "aditya@gmail.com",
+      "firstName": "Aditya",
+      "lastName": "Nandurkar",
+      "phone": "7219555384",
+      "age": 31,
+      "country": "USA",
+      "state": "Alaska",
+      "address": "Dighi, Pune",
+      "tags": [
+        "cricket, chess"
+      ],
+      "subscribe": true,
+      "id": "1"
+    },
+    {
+      "id": "a0b7",
+      "profileImage": "C:\\fakepath\\Mankar_apurva_image (1).jpg",
+      "firstName": "apurva",
+      "lastName": "mankar",
+      "email": "apu182021@gmail.com",
+      "phone": "7219595848",
+      "age": 18,
+      "country": "India",
+      "state": "Maharashtra",
+      "address": "punekothrud",
+      "tags": [],
+      "subscribe": true
+    }
+  ],
+  "profileImg": [
+    {
+      "id": "1"
+    },
+    {
+      "id": "2"
+    },
+    {
+      "id": "3"
+    },
+    {
+      "id": "4"
+    }
+  ]
+}
